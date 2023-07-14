@@ -6,9 +6,9 @@
     <ClCompile Include="Native.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <ClInclude Include="SchemaInterop.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SchemaInterop.h" />
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
